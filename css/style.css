@@ -113,7 +113,7 @@ a:hover {
   float: right;
   margin-right:120px;
   width:300px;
-  margin-bottom: 120px;
+  /* padding-bottom: 120px; */
 
 }
 .slide1{
